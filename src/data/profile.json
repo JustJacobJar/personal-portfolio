@@ -1,6 +1,13 @@
 {
   "website": [
     {
+      "imgSrc": "./sites/pokeTeam.jpg",
+      "link": "https://my-poke-tracker.vercel.app/",
+      "siteName": "My Poke Team Creator",
+      "tags": ["Next.js", "API", "OAuth2.0", "PostgreSQL"],
+      "description": "My Poke Team Creator is a place where users can view and create their own poke teams and describe how to use them."
+    },
+    {
       "imgSrc": "./sites/pokeSite.jpg",
       "link": "https://justjacobjar.github.io/pokemon-guess-who/",
       "siteName": "Pokemon Guess Who",
@@ -38,6 +45,22 @@
     {
       "imgSrc": "./icons/next-js.svg",
       "name": "Next.js"
+    },
+    {
+      "imgSrc": "./icons/vercel.svg",
+      "name": "Vercel"
+    },
+    {
+      "imgSrc": "./icons/authjs.png",
+      "name": "Auth.js (OAuth 2.0)"
+    },
+    {
+      "imgSrc": "./icons/prisma-orm.svg",
+      "name": "Prisma Orm"
+    },
+    {
+      "imgSrc": "./icons/postgresql-icon.svg",
+      "name": "PostgreSQL"
     },
     {
       "imgSrc": "./icons/c.svg",

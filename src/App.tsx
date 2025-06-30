@@ -29,7 +29,7 @@ function App() {
                     Alexander-Rothwell
                   </p>
                   <p className="text-[2.5vh] flex w-2/3 text-center justify-center place-self-center whitespace-pre">
-                    A <span className="text-primary">Front-End</span> Developer
+                    A <span className="text-primary">Full Stack</span> Developer
                   </p>
                 </div>
               }
@@ -62,7 +62,7 @@ function App() {
                 variants={animations}>
                 <div className="flex flex-col gap-4">
                   <p className="whitespace-pre-line text-xl text-pretty">
-                    I'm a UK based front-end developer and recent graduate.
+                    I'm a UK based full stack / front-end developer and recent graduate.
                     <br />
                     I love turning stunning desings into fully functional
                     websites.
@@ -137,7 +137,7 @@ function App() {
 function FooterLink({ link, imgSrc }: { link: string; imgSrc: string }) {
   return (
     <a
-      className="bg-primary rounded-full"
+      className="bg-primary rounded-full hover:brightness-75 transition-normal duration-150"
       href={link}
       target="_blank"
       rel="noreferrer">
